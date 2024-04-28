@@ -1,1 +1,3 @@
-This dataset is taken from [Kaggle][https://www.kaggle.com/c/bluebook-for-bulldozers/data] and was given as part of the `Blue Book for Bulldozers` competition.
+This dataset is taken from Kaggle and was given as part of the `Blue Book for Bulldozers` competition.
+
+https://www.kaggle.com/c/bluebook-for-bulldozers/data
